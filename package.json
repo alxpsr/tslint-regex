@@ -1,0 +1,17 @@
+{
+  "name": "ts-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rxjs": "^6.4.0",
+    "tslint": "^5.15.0",
+    "typescript": "^3.4.3"
+  }
+}
