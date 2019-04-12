@@ -4,6 +4,11 @@
         "tslint:recommended"
     ],
     "jsRules": {},
-    "rules": {},
+    "rules": {
+        "import-blacklist": [
+            true,
+            "^src."
+        ]
+    },
     "rulesDirectory": []
 }

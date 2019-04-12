@@ -1,0 +1,1 @@
+- https://github.com/jbsingh/tslint/blob/7ca812c7f882624be3b202e211a07bc064e99531/src/rules/importBlacklistRule.ts
