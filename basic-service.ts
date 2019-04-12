@@ -1,4 +1,4 @@
-import { SecondaryService } from "../src";
+import { SecondaryService } from "./src";
 export class BasicService {
     public State: boolean;
 

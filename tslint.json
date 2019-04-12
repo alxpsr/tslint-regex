@@ -7,7 +7,7 @@
     "rules": {
         "import-blacklist": [
             true,
-            "^src."
+            "^.*src$",
         ]
     },
     "rulesDirectory": []
