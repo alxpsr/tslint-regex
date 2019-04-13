@@ -7,6 +7,7 @@
     "rules": {
         "import-blacklist": [
             true,
+            "rxjs",
             [
                 "^.*src$"
             ]
